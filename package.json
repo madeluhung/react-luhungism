@@ -1,0 +1,21 @@
+{
+  "name": "react-luhungism",
+  "version": "1.0.0",
+  "description": "This is the description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madeluhung/react-luhungism.git"
+  },
+  "keywords": [
+    "generate"
+  ],
+  "author": "madeluhung",
+  "license": "MIT",
+  "dependencies": {
+    "luhungism": "^1.0.0"
+  }
+}
